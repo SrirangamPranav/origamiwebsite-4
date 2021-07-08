@@ -1,0 +1,100 @@
+h1{
+   text-align: center;
+   color: white;
+}
+.header{
+    background-color: rgb(237,157,19);
+}
+.menu{
+    text-align: right;
+    padding: 20px;
+    font-size:larger;
+    font-weight: bolder;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+h2{
+    text-align: center;
+}
+.items{
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+}
+.image{
+    border: 1px solid black;
+    width:400px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.camel{
+    border:1px solid black;
+    width:500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left:130px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.chameleon{
+    border: 1px solid black;
+    width:500px;
+    height: 600px;
+    margin-left:200px;
+    border-radius: 30px;
+    margin-left:200px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.pigeon{
+    border:1px solid black;
+    width:500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left:200px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.panda{
+    border:1px solid black;
+    width:500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left:130px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.cicanda{
+    border:1px solid black;
+    width:500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left:130px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.teddy{
+    border:1px solid black;
+    width:500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left:200px;
+    margin-top: 20px;
+    background-color:blanchedalmond;
+}
+.body{
+    margin:0%;
+}
+.image :hover{
+    width: 320px;
+    height: 320px;
+}
